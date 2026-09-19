@@ -1,6 +1,6 @@
 
 # SQL-Datawarehouse-project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
+Welcome to the Data Warehouse and Analytics Project repository! 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 ---
 
@@ -53,12 +53,16 @@ Customer Behavior
 Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+REPOSITORY STRUCTURE:
+<img width="995" height="596" alt="image" src="https://github.com/user-attachments/assets/77d22f69-5472-4e32-9e3b-03e052852e4b" />
+
 ---
 
-## 🛡️ License
+##  License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+##  About Me
 
 Hi there! I'm **Nikita**
